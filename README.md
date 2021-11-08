@@ -1,2 +1,2 @@
 # BMI_Cal
-It show us human healthiness. 
+This app calculates the BMI index
